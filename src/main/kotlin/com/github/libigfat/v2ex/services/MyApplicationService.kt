@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.libigfat.v2ex.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.libigfat.v2ex.MyBundle
 
 class MyApplicationService {
 

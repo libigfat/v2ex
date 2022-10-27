@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.libigfat.v2ex.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.libigfat.v2ex.MyBundle
 
 class MyProjectService(project: Project) {
 
